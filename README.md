@@ -51,10 +51,11 @@ Flatten → Dense(64) → Dense(1, sigmoid)
 ## 📈 Evaluation
 
 ### 📊 Accuracy Curve
-![Accuracy Curve](D:\Desktop\PBEL\accuracy_curve.jpg)
+![Accuracy](accuracy_curve.jpg)
 
 ### 📉 Loss Curve
-*(Insert Loss graph here)*
+![Loss](Loss_curve.jpg)
+
 
 You can find these graphs in the output cells of the notebook.
 
