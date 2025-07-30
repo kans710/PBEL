@@ -41,7 +41,7 @@ Flatten → Dense(64) → Dense(1, sigmoid)
 
 ## 🏋️ Training
 
-- **Epochs**: 10  
+- **Epochs**: 45
 - **Batch Size**: 32  
 - **Validation Split**: 0.2  
 - **Runtime Environment**: Google Colab (T4 GPU)
@@ -51,10 +51,10 @@ Flatten → Dense(64) → Dense(1, sigmoid)
 ## 📈 Evaluation
 
 ### 📊 Accuracy Curve
-![Accuracy](accuracy_curve.jpg)
+![Accuracy](accuracy_curve_t.jpg)
 
 ### 📉 Loss Curve
-![Loss](Loss_curve.jpg)
+![Loss](Loss_curve_t.jpg)
 
 
 You can find these graphs in the output cells of the notebook.
